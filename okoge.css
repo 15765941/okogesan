@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>CSS Gradient example</title>
+	<style>
+	.gradient { 
+		background: linear-gradient(#56C500, #fff); 
+		height: 500px; 
+		border: 1px solid #333;
+	}
+	</style>
+</head>
+<body>
+	<div class="gradient"></div>
+</body>
+</html>
